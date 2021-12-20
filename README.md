@@ -3,7 +3,8 @@ this is an op music pyrogram music bot..... this bot user music bot can play mus
 # TG-MusicPlayer
 A Telegram Userbot to play Audio and Video songs / files in Telegram Voice Chats.
 
-It's made with [PyTgCalls](https://github.com/amanrajput2001/amanrajputpytgcallmusic) and [Pyrogram](https://github.com/amanrajput2001/amanrajputpytgcallmusic)
+
+It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 
 ## Requirements
@@ -22,7 +23,7 @@ It's made with [PyTgCalls](https://github.com/amanrajput2001/amanrajputpytgcallm
 ```bash
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt-get install -y nodejs
-```
+
 
 2) Installing FFMPEG and Git
 ```bash
