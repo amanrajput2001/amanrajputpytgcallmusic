@@ -17,7 +17,8 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 
 ### Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+### Railway 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Famanrajput2001%2Famanrajputpytgcallmusic&envs=API_HASH%2CAPI_ID%2CGROUP_MODE%2CHNDLR%2CSESSION&API_HASHDesc=my.telegram.org&API_IDDesc=my.telegram.org&GROUP_MODEDesc=Anyone+can+play%2C+if+set+to+True.+Set+it+to+False+to+restrict+play+access+to+Sudo+Users%2FContacts+only&HNDLRDesc=Handler+%7C+Default+%28%21%29&SESSIONDesc=Pyrogram+String+Session&HNDLRDefault=%21&referralCode=Vr-DSL)
 ### Local Deploy
 1) Installing NodeJS
 ```bash
