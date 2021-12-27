@@ -27,7 +27,7 @@ def ytsearch(query):
       return 0
 
 # YTDL
-# https://github.com/pytgcalls/pytgcalls/blob/dev/example/youtube_dl/youtube_dl_example.py
+# https://github.com/pytgcalls/pytgcalls/blob/master/example/youtube_dl/youtube_dl_example.py
 async def ytdl(link):
    proc = await asyncio.create_subprocess_exec(
        'youtube-dl',
